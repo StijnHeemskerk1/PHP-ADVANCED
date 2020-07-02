@@ -1,1 +1,7 @@
 Kun je nog iets zeg waarom er twee manieren zijn: Get en Post? Wat is het voordeel van Get en wat van Post? In welke situaties gebruik je Get en wanneer Post?
+
+
+Met POST stuur je de variablen via een formulier naar een ander php bestand die het dan neerzet. Met GET staan de variablen en hun waarden in de url en wordt het op de zelfde pagina gelezen.
+
+
+http://localhost/websites/php-advanced/3-Forms/taak03/mijnmuziek.php?artiest=Aimer&titel=LastStardust&jaarvanuitkomst=2015&muzieksoort=J-pop

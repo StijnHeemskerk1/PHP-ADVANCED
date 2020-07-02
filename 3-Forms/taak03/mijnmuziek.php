@@ -8,7 +8,10 @@
 <body>
 
 	<?php 
-	
+		echo $_GET["artiest"] . "<BR>";
+		echo $_GET["titel"] . "<BR>";
+		echo $_GET["jaarvanuitkomst"] . "<BR>";
+		echo $_GET["muzieksoort"] . "<BR>";
 	?>
 
 </body>
