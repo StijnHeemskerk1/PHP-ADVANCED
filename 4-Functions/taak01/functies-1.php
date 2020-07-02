@@ -8,7 +8,13 @@
 <body>
 
 	<?php 
-	
+
+		schrijfkleur("red");
+
+
+		function schrijfkleur($kleur){
+
+		}
 	?>
 
 </body>
